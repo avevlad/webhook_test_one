@@ -4,6 +4,8 @@
 
 #include "pes.h"
 
+.//dasdas
+
 void output_png(struct pes *pes)
 {
 	int i;
